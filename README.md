@@ -1,15 +1,15 @@
-# 🛒 E-commerce Sales Analysis
+E-commerce Sales Analysis:
 
-📊 Project Overview
+Project Overview:
 
 This project analyzes retail sales data to identify trends, top-performing products, and business insights.
 
-🛠 Tools Used
+Tools Used:
 
 * Python (pandas, matplotlib)
 * Power BI
 
-📈 Key Analysis
+Key Analysis:
 
 * Sales and profit analysis by category
 * Monthly sales trend
